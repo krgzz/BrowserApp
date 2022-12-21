@@ -1,0 +1,15 @@
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\bin\Debug\BrowserApp.exe.config
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\bin\Debug\BrowserApp.exe
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\bin\Debug\BrowserApp.pdb
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.csproj.AssemblyReference.cache
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.browser.resources
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.login.resources
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.Properties.Resources.resources
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.csproj.GenerateResource.cache
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.csproj.CoreCompileInputs.cache
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.exe
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.pdb
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.Register.resources
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.settings.resources
+C:\Users\CES\Desktop\BrowserApp\BrowserApp\obj\Debug\BrowserApp.data.resources

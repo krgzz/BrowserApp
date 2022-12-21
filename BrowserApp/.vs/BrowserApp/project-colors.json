@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c7a43894-55c3-453b-ad36-e99206f641e9": {
+      "ProjectGuid": "c7a43894-55c3-453b-ad36-e99206f641e9",
+      "DisplayName": "BrowserApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
